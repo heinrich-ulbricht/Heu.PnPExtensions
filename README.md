@@ -1,5 +1,6 @@
 # Heu.PnPExtensions
-Extensions to PnP PowerShell functionality like falling back to CSOM and not losing the simplicity of PnP PowerShell.
+
+Currently this consists of PnPExpressionGenerator, a class that allows making complex CSOM queries without losing the simplicity of PnP PowerShell.
 
 ## What Problem Does it Solve?
 
